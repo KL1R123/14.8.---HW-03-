@@ -1,0 +1,10 @@
+{
+    "user1": {
+      "password": "$2y$10$95vE9g6qP73vV.R7w91gpejYc7.r/Q1u6U/L87pW4zB.2g58k8kZ2",
+      "birthdate":"1990-05-10"
+    },
+    "user2": {
+      "password": "$2y$10$95vE9g6qP73vV.R7w91gpejYc7.r/Q1u6U/L87pW4zB.2g58k8kZ2",
+      "birthdate":"1985-12-25"
+    }
+  }
